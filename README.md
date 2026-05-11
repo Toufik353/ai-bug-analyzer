@@ -1,5 +1,7 @@
 # 🐞 AI Bug Analyzer
 
+https://ai-bug-analyzer-1w9i-git-main-toufik353s-projects.vercel.app/
+
 A modern AI-powered bug tracking and analytics platform built with **Next.js 16**, **TypeScript**, **MongoDB**, **JWT Authentication**, and **Groq AI**.
 
 Designed with a production-style SaaS UI and real-world engineering workflows in mind, the platform allows users to analyze bugs using AI, manage reports securely, and visualize issue analytics through an interactive dashboard.
